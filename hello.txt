@@ -12,6 +12,6 @@ hello GZG! hello git
 hello GZG! hello git
 hello GZG! hello git
 hello GZG! hello git
-hello GZG! hello git master text
+hello GZG! hello git 
 hello GZG! hello git hot-fix text
 11111111111111111111111111111111
